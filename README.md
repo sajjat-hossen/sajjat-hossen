@@ -192,9 +192,9 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajjat004&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" style="margin-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjat-hossen&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" style="margin-right: 10px;">
   </a>
-  <a href="https://github.com/Sajjat004/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjat004&theme=dark&layout=compact&align=right&width=40%" alt="Top Languages">
+  <a href="https://github.com/sajjat-hossen/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjat-hossen&theme=dark&layout=compact&align=right&width=40%" alt="Top Languages">
   </a>
 </div>
